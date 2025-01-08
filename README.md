@@ -2,9 +2,6 @@
 
 ![Imagen de portada](portada.jpg)
 
-# ÍNDICE
-
-# Índice
 # Índice
 
 - [SOC: Centro de Operaciones de Seguridad](#soc-centro-de-operaciones-de-seguridad)
